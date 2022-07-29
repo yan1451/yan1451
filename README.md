@@ -47,6 +47,6 @@
 
 ###
 
-<img href="https://raw.githubusercontent.com/yan1451/yan1451/blob/output/snake.svg" alt="Snake animation" />
+![Snake animation](https://github.com/yan1451/yan1451/blob/output/snake.svg)
 
 ###
