@@ -1,4 +1,4 @@
-<h2 align="center">Olá 👋! Me chamo Yan<br>desenvolver Web Full Stack,<br>de Salvador - BA</h2>
+<h2 align="center">Olá 👋! Me chamo Yan<br>desenvolver Web Full Stack <br>de Salvador - BA</h2>
 
 ###
 
