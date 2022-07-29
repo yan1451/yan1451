@@ -43,10 +43,6 @@
 
 ###
 
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
 ![Snake animation](https://github.com/yan1451/yan1451/blob/output/snake.svg)
 
 ###
