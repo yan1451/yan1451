@@ -7,7 +7,7 @@
 
 ###
 
-<h2 align="center">Stacks / Skills - BA</h2>
+<h2 align="center">Stacks / Skills </h2>
 
 <div align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" height="30" width="42" alt="nextjs logo"  />
